@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🏡 HomeNest - A Real Estate Website</h1>
-  <p>A modern and responsive real estate website UI built with HTML, CSS, and JavaScript.</p>
+  <p>A modern and responsive real estate website UI built with HTML, CSS.</p>
   <img src="Real%20State%20Landing%20Page/images/screenshot.PNG" alt="HomeNest Real Estate Website Screenshot" width="100%"/>
 </div>
 
