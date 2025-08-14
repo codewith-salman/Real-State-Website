@@ -1,10 +1,7 @@
-<img width="1897" height="889" alt="image" src="https://github.com/user-attachments/assets/99994873-1bd4-4189-a611-9151b37dfbf2" /><div id="top"></div>
-
-<br />
 <div align="center">
   <h1>🏡 HomeNest - A Real Estate Website</h1>
   <p>A modern and responsive real estate website UI built with HTML, CSS, and JavaScript.</p>
-  <img src="Real%20State%20Landing%20Page/images/screenshot.PNG" alt="HomeNest Real Estate Website Screenshot" width="700"/>
+  <img src="Real%20State%20Landing%20Page/images/screenshot.PNG" alt="HomeNest Real Estate Website Screenshot" width="100%"/>
 </div>
 
 ---
